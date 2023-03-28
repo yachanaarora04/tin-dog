@@ -1,0 +1,205 @@
+#title
+{
+    background-color: #ff4c68;
+    
+    text-align: left;
+    
+}
+
+.container
+{
+    padding: 1% 13% 4%;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+    font-family: 'Kanit', sans-serif;
+    
+    /* padding-bottom: 60px; */
+}
+.biggest-head
+{
+    font-size: 4rem;
+    color: white;
+    line-height: 80px;
+
+}
+
+body
+{
+    font-family: 'Montserrat';
+    text-align: center;
+}
+
+.img-1
+{
+    transform: rotate(25deg);
+    margin-top: 10px;
+    width: 20%;
+    position: absolute;
+    right: 25%;
+}
+
+.navbar
+{
+    margin:15px 0px 60px;
+}
+.navbar-brand
+{
+  font-size: 35px;
+  font-weight: bold;
+  font-family: "ubuntu";
+}
+.nav-item
+{
+    font-size: 20px;
+    padding: 0 18px;
+
+}
+.nav-link{
+    padding: 100px auto;
+}
+
+.download-button
+{
+    margin: 5% 3% 10% 0%;
+}
+
+
+
+.w3-xxxlarge
+{
+    display: block;
+    padding-bottom: 10px;
+}
+
+.fa-solid
+{
+    color: #ef8172;
+}
+
+.fa-solid:hover
+{
+    color: #ff4c68
+}
+
+.easytouse
+{
+    font-family: 'Lato', sans-serif;
+    font-size: 1.5rem;
+}
+
+#features
+{
+    padding: 7% 15% 7% 15%;
+    background-color: white;
+    position: relative;
+    /* z-index: 1; */
+}
+
+.soeasy
+{
+    color: #8f8f8f;
+    font-size: 1.15rem;
+    padding: 1% 5% 1% 5%;
+}
+
+#testimonials
+{
+    
+    
+    background-color: #ef8172;
+    color: white;
+}
+
+.section-heading
+{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.price-text
+{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.testimonial-text
+{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.testimonial-image
+{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press
+{
+    background-color: #ef8172;
+    padding-bottom: 3%;
+    
+}
+
+.press-logo
+{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+.carousel-item
+{
+    padding: 7% 15%;
+}
+#pricing
+{
+    padding: 100px;
+    
+}
+
+.pricing-column
+{
+    padding: 3% 2%;
+}
+
+.foot-sec
+{
+    padding: 3% 5%;
+}
+   
+@media (max-width: 1020px)
+{
+    .img-1
+    {
+        position: static;
+        width: 50%;
+        transform: rotate(0deg);
+    }
+    #title
+    {
+        text-align: center;
+    }
+}
+#cta
+{
+    background-color: #ff4c68;
+    
+    padding: 7% 15% 3%;
+}
+
+#footer
+{
+    padding: 5% 15%;
+    
+}
+.footer-yes
+{
+    padding: 0 10px;
+}
+
+p{
+    color: #8f8f8f;
+}
+
+    
